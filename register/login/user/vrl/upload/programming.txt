@@ -1,0 +1,13 @@
+
+Techopedia explains Programming
+
+Programming language semantics and syntax are used when constructing an application. Thus, programming requires knowledge of application domains, algorithms and programming language expertise.
+
+Programming language logic differs by developer. From a high level, good code can be evaluated with factors such as:
+
+    Robustness: Focuses on program continuation capability, regardless of errors or incorrect data
+    Reliability: Focuses on correct design and algorithm implementation
+    Efficiency: Focuses on memory, hardware or other properties used to optimize programs
+    Readability: Proper documentation and indentation availability, which provides insight to other program developers or designers
+
+
